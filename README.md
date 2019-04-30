@@ -1,3 +1,3 @@
-# Cookie_Setter_And_Getter
+# Creating and Verifying Cookies
 
-Javascript code to hide elements based on if you have been to the site or not by creating and reviewing cookies. Works great for pop ups and 18+ older sites.
+Javascript code created to hide elements, mostly popups based on if you have been to the site or not by creating and reviewing cookies. Works great for pop ups and 18+ older sites.
